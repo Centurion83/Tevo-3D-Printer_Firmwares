@@ -1,9 +1,10 @@
 ## Tevo Firmware Files 
-![image](Images/dude.png)
+<!-- Alignment options!!!!! -->
+<img align="top right" width="55" height="55" src="Images/punish.jpg"
 
 Download Your setup from the choices below. I will update and add new configs as I go. If you have a request please let me know. 
 
-[MKS_GEN_L W/BLTOUCH/DUALZ/2208](https://github.com/Centurion83/Tarantula-Pro-Latest_Marlin-2.0.7.2-BLTOUCH-DUALZ-2208-MKS-GEN-L/archive/main.zip)(top right)
+[MKS_GEN_L W/BLTOUCH/DUALZ/2208](https://github.com/Centurion83/Tarantula-Pro-Latest_Marlin-2.0.7.2-BLTOUCH-DUALZ-2208-MKS-GEN-L/archive/main.zip)
 
 [MKS_SGEN_L W/BLTOUCH/DUALZ/2208](https://github.com/Centurion83/Tarantula-Pro-MKS_SGEN_L_V1-Standard-2208/archive/main.zip)
 
