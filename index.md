@@ -1,5 +1,5 @@
 ## Tevo Firmware Files 
-![image](home/centurion/Tevo-3D-Printer_Firmwares/punish.jpg)
+![image](home/centurion/Tevo-3D-Printer_Firmwares/Images/punish.jpg)
 
 Marlin 3D Printer Firmware
 
