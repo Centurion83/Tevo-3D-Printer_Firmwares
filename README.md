@@ -1,1 +1,1 @@
-# Tevo-3D-Printer_Firmwares
+# Tevo Tarantula Pro Firmware Configurations by Centurion.
