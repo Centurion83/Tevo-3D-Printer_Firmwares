@@ -1,6 +1,6 @@
 ## Tevo Firmware Files 
 <!-- Alignment options!!!!! -->
-<img align="top right" width="55" height="55" src="Images/punish.jpg"
+<img align="top right" width="55" height="55" src="Images/punish.jpg">
 
 Download Your setup from the choices below. I will update and add new configs as I go. If you have a request please let me know. 
 
