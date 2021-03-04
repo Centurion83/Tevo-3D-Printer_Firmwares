@@ -1,6 +1,8 @@
 ## Tevo Firmware Files 
 ![image](Images/punish.jpg)
 
+[MKS_GEN_L W/BLTOUCH/DUALZ/2208](https://github.com/Centurion83/Tarantula-Pro-Latest_Marlin-2.0.7.2-BLTOUCH-DUALZ-2208-MKS-GEN-L/archive/main.zip)
+
 Marlin 3D Printer Firmware
 
 GitHub GitHub contributors GitHub Release Date Build Status
