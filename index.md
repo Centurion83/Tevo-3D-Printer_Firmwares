@@ -5,7 +5,7 @@
    background-image: url(Images/'punisher.jpg');
 
 }
-</style>style>
+</style>
 
 <!-- Alignment options!!!!! -->
 <img align="right" width="120" height="120" src="Images/punish.jpg">
