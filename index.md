@@ -1,7 +1,8 @@
 ## Tevo Firmware Files 
-
-<img align="background" src="Images/punish.jpg">
-
+<img src="Images/punish.jpg"
+     alt="punish icon"
+     style="float: left; margin-right: 10px;" />
+     
 <!-- Alignment options!!!!! -->
 <img align="right" width="120" height="120" src="Images/punish.jpg">
 
